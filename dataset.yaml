@@ -1,0 +1,7 @@
+train: C:\Users\septemberlemon\.cache\ultralytics\datasets\helmet-detect\train\images\
+val: C:\Users\septemberlemon\.cache\ultralytics\datasets\helmet-detect\val\images\
+
+nc: 3
+
+names: [ head, helmet, person ]
+
